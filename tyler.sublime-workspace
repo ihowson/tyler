@@ -1,0 +1,1629 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pack",
+				"package_id"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"get_",
+				"get_absolute_url\t(models.py)"
+			],
+			[
+				"ELAS",
+				"ELASTIC_URL\t(local_settings.production.py)"
+			],
+			[
+				"INDE",
+				"INDEX_CONFIG"
+			],
+			[
+				"delet",
+				"delete_query"
+			],
+			[
+				"inde",
+				"index_complete"
+			],
+			[
+				"blog",
+				"blog_post\t(urls.py)"
+			],
+			[
+				"source",
+				"source_file_names"
+			],
+			[
+				"sour",
+				"source_file_names"
+			],
+			[
+				"sou",
+				"source_file_names"
+			],
+			[
+				"soc",
+				"source_file_names"
+			],
+			[
+				"src_",
+				"src_file_name"
+			],
+			[
+				"desc_",
+				"desc_file"
+			],
+			[
+				"quer",
+				"query_name"
+			],
+			[
+				"fail",
+				"failed_tags"
+			],
+			[
+				"manp",
+				"manpage_names"
+			],
+			[
+				"files",
+				"files_list"
+			],
+			[
+				"twit",
+				"twitter_url"
+			],
+			[
+				"str",
+				"stringify"
+			],
+			[
+				"dat",
+				"data-snippet-id"
+			],
+			[
+				"cs",
+				"csrftoken"
+			],
+			[
+				"pro",
+				"prof1234"
+			],
+			[
+				"error",
+				"errorThrown"
+			],
+			[
+				"style",
+				"stylesheet"
+			],
+			[
+				"timeout",
+				"timeout_id"
+			],
+			[
+				"timeou",
+				"timeout_id"
+			],
+			[
+				"snipp",
+				"snippet_id"
+			],
+			[
+				"snip",
+				"snippet_id"
+			],
+			[
+				"poll",
+				"pollSnippet"
+			],
+			[
+				"err",
+				"errorThrown"
+			],
+			[
+				"Dis",
+				"DISTRIBUTION_ID"
+			],
+			[
+				"SEC",
+				"SECRET_KEY"
+			],
+			[
+				"cac",
+				"canonical"
+			],
+			[
+				"coll",
+				"collection\t(build_rman.py)"
+			],
+			[
+				"colle",
+				"collection\t(models.py)"
+			],
+			[
+				"onclick",
+				"onclick=\"trackOutboundLink('https"
+			],
+			[
+				"descr",
+				"description_done"
+			],
+			[
+				"unicode",
+				"unicode_data"
+			],
+			[
+				"RM",
+				"RManPage"
+			],
+			[
+				"pygmen",
+				"pygments_css"
+			],
+			[
+				"unico",
+				"unicode_data"
+			],
+			[
+				"feature",
+				"feature_id"
+			],
+			[
+				"H",
+				"HttpResponseBadRequest"
+			],
+			[
+				"verti",
+				"vertical-align"
+			],
+			[
+				"text-",
+				"text-align"
+			],
+			[
+				"featu",
+				"feature-voting"
+			],
+			[
+				"hash",
+				"hashed_user_agent"
+			],
+			[
+				"has",
+				"hashed_user_agent"
+			],
+			[
+				"Htt",
+				"Http404"
+			],
+			[
+				"che",
+				"check_output"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"imag",
+				"image_data"
+			],
+			[
+				"insta",
+				"installed_deps"
+			],
+			[
+				"dire",
+				"direct_depends"
+			],
+			[
+				"packa",
+				"package_name"
+			],
+			[
+				"Http",
+				"HttpResponse"
+			],
+			[
+				"server_er",
+				"server_error_view"
+			],
+			[
+				"static",
+				"staticfiles_urlpatterns"
+			],
+			[
+				"othe",
+				"other_manpages"
+			],
+			[
+				"publi",
+				"published_date"
+			],
+			[
+				"pub",
+				"published_date"
+			],
+			[
+				"parse",
+				"parsed_fields"
+			],
+			[
+				"pac",
+				"package_name"
+			],
+			[
+				"fi",
+				"first_table"
+			],
+			[
+				"pa",
+				"package"
+			],
+			[
+				"package",
+				"package_name"
+			],
+			[
+				"submi",
+				"submission_date"
+			],
+			[
+				"requ",
+				"requested_deliveries"
+			],
+			[
+				"In",
+				"Institute"
+			],
+			[
+				"Mete",
+				"Merewether"
+			],
+			[
+				"Inte",
+				"Interviews"
+			],
+			[
+				"Re",
+				"Recruiter"
+			],
+			[
+				"car",
+				"carslaw"
+			],
+			[
+				"Bus",
+				"Business"
+			],
+			[
+				"loca",
+				"locationRef"
+			],
+			[
+				"Inten",
+				"International"
+			],
+			[
+				"Info",
+				"Information"
+			],
+			[
+				"Pro",
+				"Program"
+			],
+			[
+				"Work",
+				"Workshop"
+			],
+			[
+				"WOrk",
+				"Workshop"
+			],
+			[
+				"tar",
+				"target_str"
+			],
+			[
+				"uni_",
+				"uni_str_list"
+			],
+			[
+				"EN",
+				"ENV118"
+			],
+			[
+				"list",
+				"listed"
+			],
+			[
+				"dif",
+				"differently"
+			],
+			[
+				"class",
+				"class_code"
+			],
+			[
+				"ro",
+				"row_index"
+			],
+			[
+				"clas",
+				"class_code"
+			],
+			[
+				"shee",
+				"sheet_index"
+			],
+			[
+				"first",
+				"firstname"
+			],
+			[
+				"Di",
+				"domestic"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 366,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webapp/tyler/urls.py",
+			"settings":
+			{
+				"buffer_size": 103,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webapp/tyler/settings.py",
+			"settings":
+			{
+				"buffer_size": 3113,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webapp/app/templates/index.html",
+			"settings":
+			{
+				"buffer_size": 566,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "webapp/app/views.py",
+			"settings":
+			{
+				"buffer_size": 90,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "ena",
+		"selected_items":
+		[
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"synxml",
+				"Set Syntax: XML"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"wra",
+				"Word Wrap: Toggle"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"matla",
+				"Set Syntax: MATLAB"
+			],
+			[
+				"synr",
+				"Set Syntax: R"
+			],
+			[
+				"wr",
+				"Word Wrap: Toggle"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"synmat",
+				"Set Syntax: MATLAB"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ian/git/tyler"
+	],
+	"file_history":
+	[
+		"/Users/ian/git/rdrr/webapp/viewer/templates/manpage-amp.html",
+		"/Users/ian/git/rdrr/rdrr-todo.txt",
+		"/Users/ian/git/rdrr/webapp/viewer/static/js/run-example.js",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/r_man.html",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/manpage.html",
+		"/Users/ian/git/rdrr/webapp/viewer/models.py",
+		"/Users/ian/git/rdrr/webapp/viewer/views.py",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/base.html",
+		"/Users/ian/git/rdrr/semantic/semantic.json",
+		"/Users/ian/git/rdrr/webapp/viewer/management/commands/build_sitemap.py",
+		"/Users/ian/git/rdrr/webapp/viewer/management/commands/build_new.py",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/package.html",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/run-example.html",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/issues.html",
+		"/Users/ian/git/rdrr/webapp/viewer/templatetags/random_ad_unit.py",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/topright-adunit-largerec.html",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/topright-adunit-hugerec.html",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/topright-adunit-matched.html",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/topright-adunit-responsive.html",
+		"/Users/ian/git/rdrr/deployment/files/sources.list",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/source.html",
+		"/Users/ian/git/rdrr/semantic/semantic/src/site/globals/site.variables",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/search.html",
+		"/Users/ian/git/rdrr/webapp/snippets/views.py",
+		"/Users/ian/git/rdrr/webapp/viewer/management/commands/build_search.py",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/all.html",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/r_all.html",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/index.html",
+		"/Users/ian/git/rdrr/webapp/viewer/management/commands/_common.py",
+		"/Users/ian/git/rdrr/.gitignore",
+		"/Users/ian/git/rdrr/deployment/webapp_settings/local_settings.production.py",
+		"/Users/ian/git/rdrr/webapp/rpackages/settings.py",
+		"/Users/ian/git/rdrr/webapp/cron.sh",
+		"/Users/ian/git/resume/resume-data.tex",
+		"/Users/ian/git/rdrr/webapp/viewer/management/commands/_es_config.py",
+		"/Users/ian/git/rdrr/rpackages.sublime-project",
+		"/Users/ian/git/rdrr/deployment/requirements.txt",
+		"/Users/ian/git/rdrr/webapp/snippets/templates/snippets.html",
+		"/Users/ian/git/rdrr/blogposts/161109-run-r-code-snippets-for-free.markdown",
+		"/Users/ian/git/rdrr/webapp/rpackages/urls.py",
+		"/Users/ian/git/rdrr/webapp/viewer/lib.py",
+		"/Users/ian/git/rdrr/webapp/blog/models.py",
+		"/Users/ian/git/rdrr/webapp/blog/templates/blog_index.html",
+		"/Users/ian/git/rdrr/webapp/blog/templates/post.html",
+		"/Users/ian/git/rdrr/README.md",
+		"/Users/ian/git/rdrr/semantic/semantic/src/theme.config",
+		"/Users/ian/git/rdrr/webapp/snippets/templates/snippets_privacy.html",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/src.html",
+		"/Users/ian/git/rdrr/webapp/viewer/management/commands/build_packages.py",
+		"/Users/ian/git/rdrr/deployment/files/init/gunicorn.conf",
+		"/Users/ian/git/rdrr/gunicorn_start",
+		"/Users/ian/git/rdrr/deployment/production-deploy.sh",
+		"/Users/ian/git/rdrr/deployment/deploy.yml",
+		"/Users/ian/git/rdrr/deployment/provision.yml",
+		"/Users/ian/git/rdrr/webapp/viewer/management/commands/send_invalidations.py",
+		"/Users/ian/git/rdrr/webapp/viewer/management/commands/build_man.py",
+		"/Users/ian/git/rdrr/webapp/viewer/management/commands/build_rman.py",
+		"/Users/ian/git/rdrr/webapp/viewer/management/commands/build_doc.py",
+		"/Users/ian/git/rdrr/rsync-cran.sh",
+		"<untitled 0>",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/base-amp.html",
+		"/Users/ian/git/rdrr/webapp/viewer/social.py",
+		"/Users/ian/nfs/UnderworldBadlandsLinkage/linkagemodel/linkage.py",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/topright-adunit-smallrec.html",
+		"/Users/ian/git/rdrr/deployment/files/conf/nginx-server.conf",
+		"/Users/ian/git/rdrr/webapp/rpackages/profiler.py",
+		"/Users/ian/git/rdrr/webapp/viewer/static/robots.txt",
+		"/Users/ian/git/rdrr/blogposts/141229-new-son-james.markdown",
+		"/Users/ian/git/rdrr/blogposts/161104-run-r-code-snippets-for-free.markdown",
+		"/Users/ian/git/rdrr/webapp/snippets/lib.py",
+		"/Users/ian/git/rdrr/webapp/snippets/models.py",
+		"/Users/ian/gs/ATOM/hydrosphere/File_NetCDF_Hyd.cpp",
+		"/Users/ian/gs/ATOM/cython/setup.py",
+		"/Users/ian/Downloads/E237VQ3O9PASP5.2016-10-28-10.72e684c2",
+		"/Users/ian/Downloads/E237VQ3O9PASP5.2016-09-14-02.05ffaed6",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/topright-adunit.html",
+		"/Users/ian/git/rdrr/deployment/files/nginx-maint",
+		"/Users/ian/git/rdrr/rmanpage-todo.txt",
+		"/Users/ian/git/rdrr/rlang/R-3.3.1/src/library/base/R/TAGS",
+		"/Users/ian/git/rdrr/deployment/webapp_settings/local_settings.staging.py",
+		"/Users/ian/git/rdrr/webapp/viewer/migrations/0006_auto__add_field_author_name__add_field_author_email.py",
+		"/Users/ian/git/rdrr/webapp/blog/management/commands/sync_blog.py",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/rman.html",
+		"/Users/ian/git/rdrr/webapp/viewer/templates/rall.html",
+		"/Users/ian/git/rdrr/webapp/viewer/static/opensearch.xml",
+		"/Users/ian/git/rdrr/deployment/ramnode-setup.yml",
+		"/Users/ian/git/rdrr/deployment/vars.yml",
+		"/Users/ian/git/rdrr/deployment/hosts",
+		"/Users/ian/git/rdrr/deployment/handlers.yml",
+		"/Users/ian/git/rpackages/webapp/blog/templates/index.html",
+		"/Users/ian/git/rpackages/scratch/blog.txt",
+		"/Users/ian/git/rpackages/webapp/blog/templates/post.html",
+		"/Users/ian/git/rpackages/webapp/blog/models.py",
+		"/Users/ian/git/rpackages/webapp/feature_voting/models.py",
+		"/Users/ian/git/rpackages/webapp/viewer/models.py",
+		"/Users/ian/git/rpackages/webapp/viewer/templates/manpage.html",
+		"/Users/ian/git/rpackages/webapp/viewer/management/commands/build_sitemap.py",
+		"/Users/ian/git/rpackages/webapp/viewer/views.py",
+		"/Users/ian/git/rpackages/webapp/viewer/templates/base.html",
+		"/Users/ian/git/rpackages/webapp/feature_voting/static/feature-voting/feature-voting.js",
+		"/Users/ian/git/rpackages/webapp/viewer/templates/package.html",
+		"/Users/ian/git/rpackages/webapp/feature_voting/views.py",
+		"/Users/ian/git/rpackages/webapp/viewer/templates/index.html",
+		"/Users/ian/git/rpackages/webapp/viewer/management/commands/wipe_doc.py",
+		"/Users/ian/git/rpackages/deployment/provision.yml",
+		"/Users/ian/git/rpackages/deployment/webapp_settings/local_settings.production.py",
+		"/Users/ian/git/rpackages/deployment/webapp_settings/local_settings.staging.py",
+		"/Users/ian/git/rpackages/webapp/rpackages/urls.py",
+		"/Users/ian/git/rpackages/rsync-cran.sh",
+		"/Users/ian/git/rpackages/webapp/rpackages/settings.py",
+		"/Users/ian/git/rpackages/webapp/feature_voting/management/commands/prefill.py",
+		"/Users/ian/git/rpackages/env/lib/python2.7/site-packages/django/contrib/formtools/tests/wizard/wizardtests/templates/other_wizard_form.html",
+		"/Users/ian/git/rpackages/webapp/rpackages/static/foo.txt",
+		"/Users/ian/git/rpackages/tmp/HIBAG/man/hlaModelFromObj.Rd",
+		"/Users/ian/git/rpackages/static/feature-voting.js",
+		"/Users/ian/git/rpackages/tmp/eha/data/fert.rda",
+		"/Users/ian/git/rpackages/env/include/python2.7/fileobject.h",
+		"/Users/ian/git/rpackages/env/lib/python2.7/site-packages/django/contrib/admin/templates/registration/password_reset_email.html",
+		"/Users/ian/git/rpackages/build-packages.R",
+		"/Users/ian/git/rpackages/deployment/requirements.txt",
+		"/Users/ian/git/rpackages/webapp/viewer/templates/search.html",
+		"/Users/ian/Dropbox/books-to-read.txt",
+		"/Users/ian/git/rpackages/webapp/viewer/management/commands/_common.py",
+		"/Users/ian/git/rpackages/webapp/viewer/management/commands/build_man.py",
+		"/Users/ian/git/rpackages/webapp/viewer/management/commands/build_new.py",
+		"/Users/ian/Documents/hackintosh-plan.txt",
+		"/Users/ian/git/rpackages/deployment/vars.yml",
+		"/Users/ian/git/rpackages/webapp/viewer/management/commands/build_packages.py"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			"",
+			"/Users/ian/git/rdrr/webapp/viewer",
+			"",
+			"run-example.js",
+			"",
+			"'.snip-output[data-tag=\"' + tag + '\"]'",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"bson",
+			"ad_unit_temp",
+			"issues.h",
+			"issues",
+			"statsd",
+			"stats",
+			"rman",
+			"showDisqu",
+			"br /",
+			"linenos",
+			"Run this exa",
+			"alpha",
+			"canonicalUrl",
+			"showDisqu",
+			"tag_dict",
+			"iterate_packages",
+			"ld+json",
+			"data-nb-action",
+			"popover",
+			"build_new",
+			"redirect",
+			"build_well",
+			"twitt",
+			"build_well",
+			"get_full_pa",
+			"canonicalU",
+			"trackOut",
+			"trackOu",
+			"\n            ",
+			"'#run'",
+			"'#spinner'",
+			"'#status'",
+			"'#images'",
+			"'#output'",
+			"jqueryScr",
+			"capture",
+			"raven",
+			"collec",
+			"raven",
+			"    ",
+			"3.3.1",
+			"canonical_url",
+			"context_proce",
+			"trell",
+			"trello",
+			"redirect",
+			"SITE_NAME",
+			"get_absolute_url",
+			"trackOutboundLink",
+			"onclick",
+			"choicefield",
+			"h2",
+			"index",
+			"e",
+			"headDesc",
+			"r packa",
+			"raven",
+			"from raven import Client",
+			"html5lib",
+			"reverse",
+			"hits",
+			"cron run",
+			"href",
+			"disqus",
+			"Open+San",
+			"Open+Sa",
+			"***3",
+			"reverse",
+			"            \n",
+			"- Predict students at risk based on lecture (non) attendance\n- Automatically compute attendance or participation marks\n- Complete studies of how class attendance influences final marks\n- Integrate the data with other learning analytics projects\n",
+			"BIOL247",
+			"reference",
+			"• ",
+			"notice"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'.snip-run[data-tag=\"' + tag + '\"]'",
+			"'.snip-spinner[data-tag=\"' + tag + '\"]'",
+			"'.snip-stats[data-tag=\"' + tag + '\"]'",
+			"'.snip-images[data-tag=\"' + tag + '\"]'",
+			"'.snip-output[data-tag=\"' + tag + '\"]'",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								366,
+								366
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/Markdown Extended/Syntaxes/Markdown Extended.sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": 11,
+							"vintage_lines.lines": 11,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "webapp/tyler/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 103,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								97,
+								97
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 23
+							},
+							"vintage_lines.line": -1,
+							"vintage_lines.lines": 6,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "webapp/tyler/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3113,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1086,
+								1086
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true,
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 8
+							},
+							"vintage_lines.line": -1,
+							"vintage_lines.lines": 121,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 331.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "webapp/app/templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 566,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								541,
+								541
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 4
+							},
+							"vintage_lines.line": -1,
+							"vintage_lines.lines": 28,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "webapp/app/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 90,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"line_numbers": false,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"vintage":
+							{
+								"_vintageous_glue_until_normal_mode": false,
+								"action": null,
+								"action_count": "",
+								"mode": "mode_normal",
+								"motion": null,
+								"motion_count": "",
+								"must_capture_register_name": false,
+								"normal_insert_count": "1",
+								"partial_sequence": "",
+								"register": "\"",
+								"sequence": "",
+								"xpos": 0
+							},
+							"vintage_lines.line": -1,
+							"vintage_lines.lines": 5,
+							"vintage_lines.mode": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tyler.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"view",
+				"webapp/app/views.py"
+			],
+			[
+				"ur",
+				"webapp/tyler/urls.py"
+			],
+			[
+				"rea",
+				"README.md"
+			],
+			[
+				"mode",
+				"webapp/viewer/models.py"
+			],
+			[
+				"man",
+				"webapp/viewer/templates/manpage.html"
+			],
+			[
+				"runht",
+				"webapp/viewer/templates/run-example.html"
+			],
+			[
+				"run",
+				"webapp/viewer/static/js/run-example.js"
+			],
+			[
+				"run-ex",
+				"webapp/viewer/static/js/run-example.js"
+			],
+			[
+				"pac",
+				"webapp/viewer/templates/package.html"
+			],
+			[
+				"build_ne",
+				"webapp/viewer/management/commands/build_new.py"
+			],
+			[
+				"pack",
+				"webapp/viewer/templates/package.html"
+			],
+			[
+				"build_",
+				"webapp/viewer/management/commands/build_new.py"
+			],
+			[
+				"bas",
+				"webapp/viewer/templates/base.html"
+			],
+			[
+				"se",
+				"semantic/semantic.json"
+			],
+			[
+				"vie",
+				"webapp/viewer/views.py"
+			],
+			[
+				"vi",
+				"webapp/viewer/views.py"
+			],
+			[
+				"buid_n",
+				"webapp/viewer/management/commands/build_new.py"
+			],
+			[
+				"build_si",
+				"webapp/viewer/management/commands/build_sitemap.py"
+			],
+			[
+				"ran",
+				"webapp/viewer/templatetags/random_ad_unit.py"
+			],
+			[
+				"resp",
+				"webapp/viewer/templates/topright-adunit-responsive.html"
+			],
+			[
+				"topri",
+				"webapp/viewer/templates/topright-adunit-matched.html"
+			],
+			[
+				"top",
+				"webapp/viewer/templates/topright-adunit-hugerec.html"
+			],
+			[
+				"sema",
+				"semantic/semantic.json"
+			],
+			[
+				"verti",
+				"webapp/viewer/templates/topright-adunit-responsive.html"
+			],
+			[
+				"base",
+				"webapp/viewer/templates/base.html"
+			],
+			[
+				"sem",
+				"semantic/semantic.json"
+			],
+			[
+				"issu",
+				"webapp/viewer/templates/issues.html"
+			],
+			[
+				"sou",
+				"webapp/viewer/templates/source.html"
+			],
+			[
+				"r_ma",
+				"webapp/viewer/templates/r_man.html"
+			],
+			[
+				"manpa",
+				"webapp/viewer/templates/manpage.html"
+			],
+			[
+				"snipvi",
+				"webapp/snippets/views.py"
+			],
+			[
+				"inde",
+				"webapp/viewer/templates/index.html"
+			],
+			[
+				"sea",
+				"webapp/viewer/templates/search.html"
+			],
+			[
+				"r_al",
+				"webapp/viewer/templates/r_all.html"
+			],
+			[
+				"r.ht",
+				"webapp/viewer/templates/r_all.html"
+			],
+			[
+				"rma",
+				"webapp/viewer/templates/r_man.html"
+			],
+			[
+				"build_sea",
+				"webapp/viewer/management/commands/build_search.py"
+			],
+			[
+				"all",
+				"webapp/viewer/templates/all.html"
+			],
+			[
+				"com",
+				"webapp/viewer/management/commands/_common.py"
+			],
+			[
+				"build",
+				"webapp/viewer/management/commands/build_new.py"
+			],
+			[
+				"sear",
+				"webapp/viewer/templates/search.html"
+			],
+			[
+				".gii",
+				".gitignore"
+			],
+			[
+				"sett",
+				"webapp/rpackages/settings.py"
+			],
+			[
+				"cro",
+				"webapp/cron.sh"
+			],
+			[
+				"requi",
+				"deployment/requirements.txt"
+			],
+			[
+				"build_se",
+				"webapp/viewer/management/commands/build_search.py"
+			],
+			[
+				"",
+				"webapp/viewer/models.py"
+			],
+			[
+				"run-j",
+				"webapp/viewer/static/js/run-example.js"
+			],
+			[
+				"snip",
+				"webapp/snippets/templates/snippets.html"
+			],
+			[
+				"snipp",
+				"blogposts/161109-run-r-code-snippets-for-free.markdown"
+			],
+			[
+				"run-",
+				"webapp/viewer/static/js/run-example.js"
+			],
+			[
+				"blogmod",
+				"webapp/blog/models.py"
+			],
+			[
+				"mod",
+				"webapp/viewer/models.py"
+			],
+			[
+				"pos",
+				"webapp/blog/templates/post.html"
+			],
+			[
+				"url",
+				"webapp/rpackages/urls.py"
+			],
+			[
+				"manp",
+				"webapp/viewer/templates/manpage.html"
+			],
+			[
+				"r_all",
+				"webapp/viewer/templates/r_all.html"
+			],
+			[
+				"al",
+				"webapp/viewer/templates/all.html"
+			],
+			[
+				"pa",
+				"webapp/viewer/templates/package.html"
+			],
+			[
+				"random",
+				"webapp/viewer/templatetags/random_ad_unit.py"
+			],
+			[
+				"lib",
+				"webapp/viewer/lib.py"
+			],
+			[
+				"packa",
+				"webapp/viewer/templates/package.html"
+			],
+			[
+				"run-e",
+				"webapp/viewer/static/js/run-example.js"
+			],
+			[
+				"priva",
+				"webapp/snippets/templates/snippets_privacy.html"
+			],
+			[
+				"privat",
+				"webapp/snippets/templates/snippets_privacy.html"
+			],
+			[
+				"rune",
+				"webapp/viewer/templates/run-example.html"
+			],
+			[
+				"allht",
+				"webapp/viewer/templates/all.html"
+			],
+			[
+				"site",
+				"semantic/semantic/src/site/globals/site.variables"
+			],
+			[
+				"site.var",
+				"semantic/semantic/src/site/globals/site.variables"
+			],
+			[
+				"li",
+				"webapp/viewer/lib.py"
+			],
+			[
+				"them",
+				"semantic/semantic/src/theme.config"
+			],
+			[
+				"viewli",
+				"webapp/viewer/lib.py"
+			],
+			[
+				"sourht",
+				"webapp/viewer/templates/source.html"
+			],
+			[
+				"src",
+				"webapp/viewer/templates/src.html"
+			],
+			[
+				"viewv",
+				"webapp/viewer/views.py"
+			],
+			[
+				"buil",
+				"webapp/viewer/management/commands/build_new.py"
+			],
+			[
+				"provi",
+				"deployment/provision.yml"
+			],
+			[
+				"dpel",
+				"deployment/deploy.yml"
+			],
+			[
+				"depl",
+				"deployment/deploy.yml"
+			],
+			[
+				"proddep",
+				"deployment/production-deploy.sh"
+			],
+			[
+				"guni",
+				"gunicorn_start"
+			],
+			[
+				"setti",
+				"webapp/rpackages/settings.py"
+			],
+			[
+				"_comm",
+				"webapp/viewer/management/commands/_common.py"
+			],
+			[
+				"build_n",
+				"webapp/viewer/management/commands/build_new.py"
+			],
+			[
+				"send_",
+				"webapp/viewer/management/commands/send_invalidations.py"
+			],
+			[
+				"comm",
+				"webapp/viewer/management/commands/_common.py"
+			],
+			[
+				"cron",
+				"webapp/cron.sh"
+			],
+			[
+				"viewer/templates",
+				"webapp/viewer/templates/manpage.html"
+			],
+			[
+				"in",
+				"webapp/viewer/templates/index.html"
+			],
+			[
+				"temppa",
+				"webapp/viewer/templates/package.html"
+			],
+			[
+				"rm",
+				"webapp/viewer/templates/r_man.html"
+			],
+			[
+				"build_rma",
+				"webapp/viewer/management/commands/build_rman.py"
+			],
+			[
+				"build_p",
+				"webapp/viewer/management/commands/build_packages.py"
+			],
+			[
+				"c",
+				"rsync-cran.sh"
+			],
+			[
+				"cr",
+				"rsync-cran.sh"
+			],
+			[
+				"vievi",
+				"webapp/viewer/views.py"
+			],
+			[
+				"base-amp",
+				"webapp/viewer/templates/base-amp.html"
+			],
+			[
+				"deplo",
+				"deployment/provision.yml"
+			],
+			[
+				".giti",
+				".gitignore"
+			],
+			[
+				"soci",
+				"webapp/viewer/social.py"
+			],
+			[
+				"index",
+				"webapp/viewer/templates/index.html"
+			],
+			[
+				"social",
+				"webapp/viewer/social.py"
+			],
+			[
+				"socil",
+				"webapp/viewer/social.py"
+			],
+			[
+				"manap",
+				"webapp/viewer/templates/manpage.html"
+			],
+			[
+				"ma",
+				"webapp/viewer/templates/manpage.html"
+			],
+			[
+				"ad",
+				"webapp/viewer/templatetags/random_ad_unit.py"
+			],
+			[
+				"topr",
+				"webapp/viewer/templates/topright-adunit-largerec.html"
+			],
+			[
+				"ngi",
+				"deployment/files/conf/nginx-server.conf"
+			],
+			[
+				"set",
+				"webapp/rpackages/settings.py"
+			],
+			[
+				"req",
+				"deployment/requirements.txt"
+			],
+			[
+				"prod",
+				"deployment/webapp_settings/local_settings.production.py"
+			],
+			[
+				"produ",
+				"deployment/webapp_settings/local_settings.production.py"
+			],
+			[
+				"build_rm",
+				"webapp/viewer/management/commands/build_rman.py"
+			],
+			[
+				"viewerview",
+				"webapp/viewer/views.py"
+			],
+			[
+				"sni",
+				"webapp/snippets/templates/snippets.html"
+			],
+			[
+				"roob",
+				"webapp/viewer/static/robots.txt"
+			],
+			[
+				"blogja",
+				"blogposts/141229-new-son-james.markdown"
+			],
+			[
+				"blogr-co",
+				"blogposts/161104-run-r-code-snippets-for-free.markdown"
+			],
+			[
+				"sniph",
+				"webapp/snippets/templates/snippets.html"
+			],
+			[
+				"snih",
+				"webapp/snippets/templates/snippets.html"
+			],
+			[
+				"sn",
+				"webapp/snippets/templates/snippets.html"
+			],
+			[
+				"snipht",
+				"webapp/snippets/templates/snippets.html"
+			],
+			[
+				"requ",
+				"deployment/requirements.txt"
+			],
+			[
+				"ngin",
+				"deployment/files/conf/nginx-server.conf"
+			],
+			[
+				"snipli",
+				"webapp/snippets/lib.py"
+			],
+			[
+				"snipview",
+				"webapp/snippets/views.py"
+			],
+			[
+				"snipmo",
+				"webapp/snippets/models.py"
+			],
+			[
+				"views",
+				"webapp/viewer/views.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "RHT",
+		"selected_items":
+		[
+			[
+				"RHT",
+				"RHtmlFormatter"
+			],
+			[
+				"_pro",
+				"_process_rd"
+			],
+			[
+				"canoni",
+				"canonical_url"
+			],
+			[
+				"src",
+				"src"
+			],
+			[
+				"packa",
+				"package"
+			],
+			[
+				"redirect",
+				"doc_redirect"
+			],
+			[
+				"reverse",
+				"blockquote-reverse"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"_vintageous_last_buffer_search": "INSTALL",
+		"_vintageous_last_buffer_search_command": "vi_slash",
+		"_vintageous_reset_during_init": true,
+		"vintage":
+		{
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

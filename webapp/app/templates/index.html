@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+
+    <title>tyler</title>
+
+    <style>
+    </style>
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/semantic.min.css" integrity="sha256-lCqHBvboFPu7gyEswcz5UdbXKyB6FDOtfbOeMvUEfkY=" crossorigin="anonymous" />
+  </head>
+
+  <body>
+    <div class='ui text grid container'>
+      <div class='row'>
+        <br />
+        {% if messages %}
+          {% for message in messages %}
+            <div class='ui {{ message.tags }} message'>{{ message }}</div>
+          {% endfor %}
+        {% endif %}
+
+        <div class='ui segment'>
+          <h1 class='ui header'>Server control</h1>
+
+          <form class="ui form" action='/' method='POST'>
+            {% csrf_token %}
+            <button class='ui huge orange button' type='submit'>Restart Kodi</button>
+          </form>
+
+          <h2>Handy links</h2>
+          <ul>
+            <li><a href="http://192.168.1.10:8080" target="_blank">Kodi remote control</a></li>
+            <li><a href="http://192.168.1.10:9091" target="_blank">Transmission (torrents)</a></li>
+            <li><a href="http://192.168.1.10:9889" target="_blank">SickBeard (TV shows)<div class='sub header'>Username is 'sickbeard', password is 'sickbeard'</div></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.2.9/semantic.min.js" integrity="sha256-mq9Ru97qzOm1x5zeYFfPniWgQP9tEmjo3O4jUEJdjNY=" crossorigin="anonymous"></script>
+  </body>
+</html>
