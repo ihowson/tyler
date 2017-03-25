@@ -6,6 +6,5 @@ I have a home file server/media player/compute node used by the whole family. So
 
 ## TODO
 
-* Links to Transmission and Sickbeard
 * Is the Internet working?
-* Are there any alerts (disk failures?)
+* Are there any alerts (e.g. disk failures)
